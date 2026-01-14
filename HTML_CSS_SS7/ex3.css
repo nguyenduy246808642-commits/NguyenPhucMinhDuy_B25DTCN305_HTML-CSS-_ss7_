@@ -1,0 +1,29 @@
+.border{
+    border:1px solid black;
+    max-width: 400px;
+    margin:40px auto;
+}
+
+.border h2{
+    color:#ff6600;
+}
+
+.border h3{
+    color:#1eff29;
+}
+
+.banner{
+    width:100%;
+    height:auto;
+    margin-bottom: 15px;
+}
+
+.border h2, 
+.border h1,
+.border h3,
+.border p {
+    padding:0 15px;
+}
+
+
+

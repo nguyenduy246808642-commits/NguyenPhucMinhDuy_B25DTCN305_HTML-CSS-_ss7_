@@ -1,0 +1,11 @@
+.service-card {
+    text-align: center;
+    width:300px;
+    border:2px solid #1eff29 ;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.service-card p {
+    font-size: large;
+}

@@ -1,0 +1,81 @@
+
+body{
+    font-family:"Roboto",sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+
+.dental-repair {
+    background-color: #E9ECF1;
+    height:295px;
+    width: 575px;
+    position:relative;
+    left:28%;
+    top:50px;
+}
+
+.border {
+    border:1px solid black;
+    border-radius: 15px;
+    width:570px;
+    padding:20px;
+    background-color: white;
+    position:absolute;
+    bottom:0.5px;
+}
+
+.title p{
+    color:#333230;
+}
+
+.title{
+    line-height: 40px;
+}
+
+.position{
+    position:relative;
+}
+
+.treatment{
+    display:inline;
+    border:1px solid #231705;
+    border-radius:15px ;
+    background-color: #FFE2B3;
+    color:#B36B00;
+    padding:2px;
+    font-weight: bold;
+    width:130px;
+    text-align: center;
+    position:absolute;
+    left:400px;
+    bottom:90px;
+}
+
+span{
+    font-weight: bold;
+}
+
+.progress{
+    width: 100%;
+    height: 10px;
+    background-color: #eee;
+    border-radius: 10px;
+    overflow: hidden; 
+    margin:10px 0;
+}
+
+.progress-bar{
+    width: 60%; 
+    height: 100%;
+    background-color: #32ff32;
+    border-radius: 10px;
+}
+.time {
+    color:#BBBBBC;
+    line-height: 40px;
+}
+
